@@ -19,4 +19,4 @@ You should have the following installed on your local machine:
   * node app.js
 * After following above steps open your browser and run
    http://localhost:3000/campgrounds
-![website](https://github.com/Aditi760/AdventureSeeker/blob/main/screenshots/All%20Campgrounds.png)
+
