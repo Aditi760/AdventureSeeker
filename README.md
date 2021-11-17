@@ -12,8 +12,6 @@ using **Node.js** and **JavaScript**.
 
 Used **MongoDB** and **Passport** to store and validate user information.
 
-See the **screenshot folder** for the designing and working link of the web App.
-
 # Getting Started
 
 # Prerequisites
