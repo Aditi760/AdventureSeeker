@@ -5,7 +5,7 @@
 * posting review
 [reviews](https://github.com/Aditi760/AdventureSeeker/blob/main/screenshots/Leave%20a%20review.png)
 * editing previous submissions
-[edit](https://github.com/Aditi760/AdventureSeeker/blob/main/screenshots/Edit%20Delete%20Section.png)
+[edit/delete](https://github.com/Aditi760/AdventureSeeker/blob/main/screenshots/Edit%20Delete%20Section.png)
 
 
 using **Node.js** and **JavaScript**.
