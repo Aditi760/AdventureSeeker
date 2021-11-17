@@ -1,6 +1,22 @@
 # AdventureSeeker
 Designed a travel destinations website to browse and add campsites.
-It implements the following features: user Login/Signup page, posting review, editing previous submissions using **Node.js** and **JavaScript**.
+
+[All Campgrounds](https://github.com/Aditi760/AdventureSeeker/blob/main/screenshots/All%20Campgrounds.png)
+
+
+It implements the following features: user Login/Signup page
+[login](https://github.com/Aditi760/AdventureSeeker/blob/main/screenshots/Login%20Page.png)
+
+[sign up](https://github.com/Aditi760/AdventureSeeker/blob/main/screenshots/Sign%20up%20page.png)
+
+posting review
+[reviews](https://github.com/Aditi760/AdventureSeeker/blob/main/screenshots/Leave%20a%20review.png)
+
+editing previous submissions
+[edit](https://github.com/Aditi760/AdventureSeeker/blob/main/screenshots/Edit%20Delete%20Section.png)
+
+
+using **Node.js** and **JavaScript**.
 
 Used **MongoDB** and **Passport** to store and validate user information.
 
