@@ -15,7 +15,7 @@ You should have the following installed on your local machine:
 # Installing
 * Download and extract the repository.
 * Then go to the local directory and run below commands
-  npm install
-  node app.js
+  <npm install>
+  <node app.js>
 * After following above steps open your browser and run
    http://localhost:3000/campgrounds
