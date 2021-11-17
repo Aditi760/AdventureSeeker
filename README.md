@@ -3,9 +3,9 @@
 * It implements the following features: user Login/Signup page[login](https://github.com/Aditi760/AdventureSeeker/blob/main/screenshots/Login%20Page.png)
 [sign up](https://github.com/Aditi760/AdventureSeeker/blob/main/screenshots/Sign%20up%20page.png)
 * posting review
-[reviews](https://github.com/Aditi760/AdventureSeeker/blob/main/screenshots/Leave%20a%20review.png)
+[Leave a Reviews](https://github.com/Aditi760/AdventureSeeker/blob/main/screenshots/Leave%20a%20review.png)
 * editing previous submissions
-[edit/delete](https://github.com/Aditi760/AdventureSeeker/blob/main/screenshots/Edit%20Delete%20Section.png)
+[Edit/Delete](https://github.com/Aditi760/AdventureSeeker/blob/main/screenshots/Edit%20Delete%20Section.png)
 
 
 using **Node.js** and **JavaScript**.
